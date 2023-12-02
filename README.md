@@ -1,13 +1,11 @@
 ### Hi there 👋, I'm Shabbir HOSSAIN
-#### I am GitHub Readme Generator's creator
-
-
+![](https://www.facebook.com/photo/?fbid=1394372097742949&set=a.226142781232559)
 
 
 Skills:  HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning java  
+- 🌱 I’m currently learning java 
 - 👯 I’m looking to collaborate on git hub 
 
 
@@ -15,13 +13,5 @@ Skills:  HTML / CSS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShifaTn87)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaTn87)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/ShifaTn87)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ShifaTn87)  
-
-
 
