@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I'm Shabbir HOSSAIN
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://www.facebook.com/photo/?fbid=1394372097742949&set=a.226142781232559)
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
