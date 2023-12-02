@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://www.facebook.com/photo/?fbid=1394372097742949&set=a.226142781232559)
+
 ### Hi there 👋, I'm Shabbir HOSSAIN
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://www.facebook.com/photo/?fbid=1394372097742949&set=a.226142781232559)
